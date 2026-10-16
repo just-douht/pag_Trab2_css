@@ -4,9 +4,13 @@ h1 {
     color: #e01111;
     font-family: "comic sans";
     text-align: center;
+    text-decoration: underline;
 }
 
 p {
-    color: #e3e70a;
+    color: #1ac72b;
     font-family: "Times New Roman";
+    line-height: 30px;
+    text-decoration: none;
+
 }
