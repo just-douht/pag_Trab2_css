@@ -3,9 +3,10 @@
 h1 {
     color: #e01111;
     font-family: "comic sans";
+    text-align: center;
 }
 
 p {
-    color: #571495;
+    color: #e3e70a;
     font-family: "Times New Roman";
 }
