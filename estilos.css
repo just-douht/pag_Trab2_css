@@ -1,35 +1,11 @@
-.primero {
-    position:relative;
-    top:300px;
-    bottom:0;
-    right:0;
-    left:500px;
+/* Texto y tipografía */
+
+h1 {
+    color: #e01111;
+    font-family: "comic sans";
 }
 
-.segundo {
-    position:fixed;
-    top:50px;
-    bottom:0;
-    right:0;
-    left:50px;
-}
-
-.tercero {
-    position:absolute;
-    top:0px;
-    bottom:0;
-    right:0;
-    left:600px;
-}
-
-.cuarto {
-    position:static;;
-}
-
-.quinto{
-    float: left;
-    top:1000px;
-    bottom:0;
-    right:0;
-    left:300px;
+p {
+    color: #571495;
+    font-family: "Times New Roman";
 }
