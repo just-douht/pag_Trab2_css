@@ -4,11 +4,10 @@
 img{
     width: 300px;
     height:auto;
-    margin: auto;
     display:block;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 10px;
-    border: 10px #424244;
+    border: 1px #424244;
 }
 
 /*sombra-box-shadow: 5px 5px opx #ccc;*/
